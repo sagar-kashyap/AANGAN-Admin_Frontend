@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.amount{
+    color: #f5a524;
+    font-weight: bold;
+}
